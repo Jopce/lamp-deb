@@ -1,6 +1,6 @@
 # LAMP from souce on debian
 
-The script builds from source, tests and deploys the LAMP stack on a Debian machine. All installed packages are placed in /opt/ <br>
+The Bash script builds from source, tests and deploys the LAMP stack on a Debian machine. All installed packages are placed in /opt/ <br>
 To run: `sudo bash lamp_install <apache_ver> <mariadb_ver> <php_ver>`
 
 ### Features:
